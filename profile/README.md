@@ -20,7 +20,7 @@ Unsere Open-Source-Projekte konzentrieren sich auf modulare Gutenberg-Blöcke, p
 <br>
 <br>
 
-## Kontakt
+## Unsere Kontakt-Angaben
 
 [ulrich.digital gmbh](https://ulrich.digital)<br>
 Schwyz, Schweiz<br>
