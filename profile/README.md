@@ -1,5 +1,5 @@
 
-# Agentur für Webentwicklung und Full-Site-Editing mit WordPress.
+# Agentur für digitale Kommunikation, Webentwicklung und Full-Site-Editing mit WordPress.
 
 Unsere Open-Source-Projekte konzentrieren sich auf modulare Gutenberg-Blöcke, performante Block-Themes und integrationsfähige APIs.
 
