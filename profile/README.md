@@ -6,16 +6,15 @@ Agentur für digitale Kommunikation, Webentwicklung und Full-Site-Editing-Lösun
 
 Unsere Open-Source-Projekte konzentrieren sich auf modulare Gutenberg-Blöcke, performante Block-Themes und integrationsfähige APIs.
 
-<br>
-<br>
-<br>
-<br>
 
-## Projektübersicht
+
+
+
+
+
+## Unsere Repositories
 [ulrich-digital.github.io](https://ulrich-digital.github.io)
 
-<br>
-<br>
 <br>
 <br>
 
@@ -29,9 +28,9 @@ Unsere Open-Source-Projekte konzentrieren sich auf modulare Gutenberg-Blöcke, p
 
 ## Kontakt
 
-[ulrich.digital gmbh](https://ulrich.digital)
-Schwyz, Schweiz
-info@ulrich.digital
+[ulrich.digital gmbh](https://ulrich.digital)<br>
+Schwyz, Schweiz<br>
+info@ulrich.digital<br>
 
 <br>
 <br>
