@@ -1,7 +1,12 @@
 # ulrich.digital gmbh
 <br>
-Agentur für digitale Kommunikation, Webentwicklung und Full-Site-Editing-Lösungen auf WordPress-Basis.  
+<br>
+<br>
+Agentur für digitale Kommunikation, Webentwicklung und Full-Site-Editing-Lösungen auf WordPress-Basis.<br>
+
 Unsere Open-Source-Projekte konzentrieren sich auf modulare Gutenberg-Blöcke, performante Block-Themes und integrationsfähige APIs.
+<br>
+<br>
 <br>
 <br>
 
@@ -10,10 +15,14 @@ Unsere Open-Source-Projekte konzentrieren sich auf modulare Gutenberg-Blöcke, p
 
 <br>
 <br>
-
+<br>
+<br>
 
 ## Kontakt
 
 [ulrich.digital gmbh](https://ulrich.digital)  
 Schwyz, Schweiz  
 info@ulrich.digital
+
+<br>
+<br>
