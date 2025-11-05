@@ -1,5 +1,3 @@
-<br>
-<br>
 
 # Agentur für Webentwicklung und Full-Site-Editing mit WordPress.
 
@@ -13,7 +11,8 @@ Unsere Open-Source-Projekte konzentrieren sich auf modulare Gutenberg-Blöcke, p
 
 <br>
 <br>
-
+<br>
+<br>
 
 ## Kontakt
 
