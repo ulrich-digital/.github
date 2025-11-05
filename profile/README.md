@@ -5,10 +5,12 @@ Unsere Open-Source-Projekte konzentrieren sich auf modulare Gutenberg-Blöcke, p
 
 <br>
 <br>
+<br>
 
 ## Unsere Repositories
 [ulrich-digital.github.io](https://ulrich-digital.github.io)
 
+<br>
 <br>
 <br>
 <br>
@@ -19,6 +21,3 @@ Unsere Open-Source-Projekte konzentrieren sich auf modulare Gutenberg-Blöcke, p
 [ulrich.digital gmbh](https://ulrich.digital)<br>
 Schwyz, Schweiz<br>
 info@ulrich.digital<br>
-
-<br>
-<br>
