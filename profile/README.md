@@ -8,7 +8,7 @@ Unsere Open-Source-Projekte konzentrieren sich auf modulare Gutenberg-Blöcke, p
 <br>
 
 ## Unsere Repositories
-[git.ulrich.digital!](https://git.ulrich.digital)
+[git.ulrich.digital](https://git.ulrich.digital)
 
 <br>
 <br>
